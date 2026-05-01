@@ -11,9 +11,9 @@ A React-based cybersecurity threat intelligence dashboard built with Vite.
 - NVD / NIST Public API
 
 ## Features
-- Search CVEs by keyword (debounced)
+- Search CVEs by keyword 
 - Filter by severity
-- Sort by CVSS score (high to low / low to high)
+- Sort by score 
 - Pagination
 - Dark mode toggle
 
